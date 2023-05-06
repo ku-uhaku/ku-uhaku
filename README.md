@@ -34,7 +34,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socket.io)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
