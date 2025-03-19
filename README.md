@@ -38,6 +38,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 
 
 ## 📈 GitHub stats
