@@ -3,8 +3,8 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ku-uhaku&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ku-uhaku" />
+<p align="center">
+   <img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 </p>
 <p align="left">
   <a href="https://github.com/ku-uhaku">
