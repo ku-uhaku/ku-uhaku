@@ -5,13 +5,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=ku-uhaku&color=grey&style=flat-square" />
 
-## 🌎 Connect with me
 
-<p align="left">
-<a href="https://twitter.com/ku-uhaku" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.facebook.com/ku-uhaku" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/ku-uhaku" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discord.com/users/706788662314008577" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kuuhaku-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuuhaku)
+[![Twitter](https://img.shields.io/badge/Twitter-kuuhaku-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kuuhaku)
+[![Instagram](https://img.shields.io/badge/Instagram-kuuhaku-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kuuhaku)
+[![Discord](https://img.shields.io/badge/Discord-kuuhaku-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kuuhaku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kuuhaku.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://kuuhaku.dev)
+[![Email](https://img.shields.io/badge/Email-kuuhaku@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuuhaku@gmail.com)
 
 </p>
 
