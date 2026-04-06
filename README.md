@@ -3,19 +3,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center">
-   <img src="https://github.com/{ku-uhaku}/{ku-uaku}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-</p>
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{ku-uhaku}/count.svg" alt="Visitor's Count" />
-</div>
-
-<p align="left">
-  <a href="https://github.com/ku-uhaku">
-    <img src="https://github-readme-stats.vercel.app/api?username=ku-uhaku&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" alt="ku-uhaku" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ku-uhaku&color=grey&style=flat-square" />
 
 ## 🌎 Connect with me
 
