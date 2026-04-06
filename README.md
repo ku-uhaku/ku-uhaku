@@ -1,6 +1,8 @@
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Kuuhaku</h1>
 <h3 align="center">A fullstack developer from Morocco</h3>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ku-uhaku&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ku-uhaku" />
 </p>
