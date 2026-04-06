@@ -16,26 +16,39 @@
 [![Email](https://img.shields.io/badge/Email-kuuhaku@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuuhaku@gmail.com)
 
 </p>
+### Technologies & Tools
 
-## 🔧 Technologies & Tools
+**Languages**
 
-### Programming Languages
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-grey?style=flat-square&logo=php)
+![Go](https://img.shields.io/badge/Go-grey?style=flat-square&logo=go)
+![C](https://img.shields.io/badge/C-grey?style=flat-square&logo=c)
 
-### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-grey?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-grey?style=flat-square&logo=laravel)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=flat-square&logo=bootstrap)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-grey?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat-square&logo=postgresql)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-grey?style=flat-square&logo=git)
+![Claude Code](https://img.shields.io/badge/Claude_Code-grey?style=flat-square&logo=anthropic)
+![Codex](https://img.shields.io/badge/Codex-grey?style=flat-square&logo=openai)
+![Antigravity](https://img.shields.io/badge/Antigravity-grey?style=flat-square&logo=google)
 
 
 ## 📈 GitHub stats
